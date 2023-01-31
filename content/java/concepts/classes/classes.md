@@ -86,3 +86,4 @@ abstract class Person {
   abstract void talk(String message);
 }
 ```
+Abstract classes cannot be instantiated and are best used as parent classes to enforce certain methods to be present in child classes.
